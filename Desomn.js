@@ -3,8 +3,8 @@
 // @namespace    https://www.sjoerdlangkemper.nl/
 // @name         Hack sjoerdlangkemper.nl
 // @description  Brute-force a login page
-// @copyright   // @copyright 2018, bam000055 (https://openuserjs.org//users/bam000055)
-// @license
+// @copyright    2018, bam000055 (https://openuserjs.org//users/bam000055)
+// @license      MIT
 // @version      0.1
 // @author       Sjoerd Langkemper
 // @include        http://demo.sjoerdlangkemper.nl/login.php
