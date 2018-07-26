@@ -12,6 +12,10 @@
 // @grant        GM_getValue
 // ==/UserScript==
 
+// ==OpenUser JS==
+// @author Sjoerd Langkemper
+// ==/OpenUser JS==
+
 
 (function() {
     'use strict';
