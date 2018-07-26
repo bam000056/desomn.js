@@ -6,14 +6,14 @@
 // @copyright    2018, bam000055 (https://openuserjs.org//users/bam000055)
 // @license      MIT
 // @version      0.1
-// @author       Sjoerd Langkemper
+// @author       bam000055
 // @include        http://demo.sjoerdlangkemper.nl/login.php
 // @grant        GM_setValue
 // @grant        GM_getValue
 // ==/UserScript==
 
 // ==OpenUser JS==
-// @author Sjoerd Langkemper
+// @author bam000055
 // ==/OpenUser JS==
 
 
