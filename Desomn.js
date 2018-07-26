@@ -1,11 +1,13 @@
 # desomn.js
 // ==UserScript==
-// @name         Hack sjoerdlangkemper.nl
 // @namespace    https://www.sjoerdlangkemper.nl/
-// @version      0.1
+// @name         Hack sjoerdlangkemper.nl
 // @description  Brute-force a login page
+//@copyright 
+//@license
+// @version      0.1
 // @author       Sjoerd Langkemper
-// @match        http://demo.sjoerdlangkemper.nl/login.php
+// @include        http://demo.sjoerdlangkemper.nl/login.php
 // @grant        GM_setValue
 // @grant        GM_getValue
 // ==/UserScript==
